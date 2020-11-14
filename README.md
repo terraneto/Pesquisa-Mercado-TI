@@ -5,7 +5,7 @@ Este repositório contém as bases de dados utilizadas para a realização da pe
 
 Contém os seguintes arquivos:
 
-1) cagedmov2020.csv - Contém todos os dados das movimentações do Novo CAGED de Janeiro a Setembro, com os dados disponibilizados no diretório de setembro do endereço ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2020/Setembro/. Foram descartadas as movimentações de contratações que tivessem o salário ou as horas contratuais iguais a zero.
+1) cagedmov2020.csv - Contém todos os dados das movimentações do Novo CAGED de Janeiro a Setembro, com os dados disponibilizados no diretório de setembro do endereço ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2020/Setembro/ . Foram descartadas as movimentações de contratações que tivessem o salário ou as horas contratuais iguais a zero.
 
 2) cagedmovsp.csv - Contém todas as movimentações referentes ao município de São Paulo
 
