@@ -21,8 +21,6 @@ CAGEDMOVSPTI$indicadoraprendiz <- as.factor(CAGEDMOVSPTI$indicadoraprendiz)
 
 summary(CAGEDMOVSPTI)
 
-write.table(CAGEDMOVSPTI, file = "./cagedmovspti.csv", row.names = FALSE, sep = ";", dec = ",")
-
 contspti<-CAGEDMOVSPTI[CAGEDMOVSPTI$saldomovimentação>0,]
 write.table(contspti, file = "./contratacaospti.csv", row.names = FALSE, sep = ";", dec = ",")
 demissaospti<-CAGEDMOVSPTI[CAGEDMOVSPTI$saldomovimentação<0,]
