@@ -15,3 +15,5 @@ Contém os seguintes arquivos:
 
 5) demissaospti.csv - Contém os desligamentos de “Analista de Desenvolvimento de Sistemas” e “Programador de Sistemas de Informação” no município de São Paulo entre janeiro e setembro de 2020
 
+6) retirados.csv- Contém as observações de "Analista de Desenvolvimento de Sistemas" que foram retiradas, por serem outliers, para alcançar a normalidade
+
